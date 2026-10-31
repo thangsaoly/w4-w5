@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "my_app (main.dart)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "ex1",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/practice/ex1/main.dart"
+    },
+    {
+      "name": "ex2",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/practice/ex2/main.dart"
+    },
+    {
+      "name": "ex3",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/practice/ex3/main.dart"
+    },
+    {
+      "name": "ex4",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/practice/ex4/main.dart"
+    },
+    {
+      "name": "ex5",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/practice/ex5/main.dart"
+    }
+  ]
+}

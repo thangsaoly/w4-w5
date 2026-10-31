@@ -16,7 +16,7 @@ class Exercise5 extends StatelessWidget {
           toolbarHeight: 80,
           backgroundColor: Colors.deepOrangeAccent,
           title: Text(
-            'Welcome !',
+            'Welcome, Sir!',
             style: TextStyle(color: Colors.white, fontSize: 24),
           ),
           centerTitle: true,
@@ -46,12 +46,12 @@ class Exercise5 extends StatelessWidget {
                     height: 125,
                     width: 125,
                     decoration: BoxDecoration(
-                      color: Colors.orange[200],
+                      color: Colors.orange[300],
                       borderRadius: BorderRadius.circular(12),
                     ),
                     child: Center(
                       child: Text(
-                        'Soccer',
+                        'Minecraft',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 18,
@@ -86,14 +86,14 @@ class Exercise5 extends StatelessWidget {
 
                   Container(
                     height: 125,
-                    width: 125,
+                    width: 200,
                     decoration: BoxDecoration(
                       color: Colors.orange[600],
                       borderRadius: BorderRadius.circular(12),
                     ),
                     child: Center(
                       child: Text(
-                        'Coding',
+                        'Coding on Weekends',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 18,
@@ -107,14 +107,14 @@ class Exercise5 extends StatelessWidget {
 
                   Container(
                     height: 125,
-                    width: 125,
+                    width: 200,
                     decoration: BoxDecoration(
                       color: Colors.orange[800],
                       borderRadius: BorderRadius.circular(12),
                     ),
                     child: Center(
                       child: Text(
-                        'Design',
+                        'Mobile Development',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 18,
